@@ -26,8 +26,9 @@ export default function CancerSupportHome() {
         className="flex-1 px-6 py-20 text-center flex flex-col items-center justify-center"
       >
         <h2 className="text-4xl md:text-6xl font-extrabold text-purple-800 mb-6 leading-tight">
-          You're Not Alone <br /> We're In This Together
-        </h2>
+             You&apos;re Not Alone <br /> We&apos;re In This Together
+	</h2>
+
         <p className="text-lg max-w-xl text-gray-600 mb-8">
           Join a trusted support system of survivors, caregivers, and top hospitals. Find answers, talk to others, and get the care you deserve.
         </p>
